@@ -28,7 +28,7 @@ The objective is to derive key insights and optimization opportunities with the 
 
 ## Dashboard Preview
 📌 Power BI Dashboard
-<p align="center"> <img src="powerbi/blinkit powerbi.png" width="700"/> </p>
+<p align="center"> <img src="https://github.com/Gopal120105/Blinkit-Project/blob/c673a60d879fe81a3faf8a17d1131cd444584bdf/blinkit%20powerbi.png" width="700"/> </p>
 📌 Excel Dashboard
 <p align="center"> <img src="excel/blinkit excel.png" width="700"/> </p>
 
