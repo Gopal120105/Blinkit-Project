@@ -39,7 +39,7 @@ The objective is to derive key insights and optimization opportunities with the 
 - Sales distribution varied significantly across locations
 
 ## 🚀 Live Demo of Power BI Dashboard
-👉 https://app.powerbi.com/links/NXZr051Hj6?ctid=be97dfd8-31a5-41c4-8019-51ca7013b51c&pbi_source=linkShare
+👉 https://app.powerbi.com/groups/me/reports/dcd64cd2-d0a0-445e-8cd3-8b254a33e714/77eb538405790d2532eb?experience=power-bi
 
 ## Folder Structure
 ```
