@@ -30,7 +30,7 @@ The objective is to derive key insights and optimization opportunities with the 
 📌 Power BI Dashboard
 <p align="center"> <img src="https://github.com/Gopal120105/Blinkit-Project/blob/c673a60d879fe81a3faf8a17d1131cd444584bdf/blinkit%20powerbi.png" width="700"/> </p>
 📌 Excel Dashboard
-<p align="center"> <img src="excel/blinkit excel.png" width="700"/> </p>
+<p align="center"> <img src="https://github.com/Gopal120105/Blinkit-Project/blob/3786b339a1a423b9c9bedac775d4e380eca37c05/blinkit%20excel.png" width="700"/> </p>
 
 ## Insights & Findings
 - Low Fat vs Regular items showed different sales performance
