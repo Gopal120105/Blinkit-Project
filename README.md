@@ -68,7 +68,7 @@ Blinkit-Analysis-Project/
 - Integrate with real-time APIs for live dashboarding
 
 ## Author
-👩‍💻 Priyanshi Shukla
+👩‍💻 Gopal Sejgaya
 🔗 [My LinkedIn](https://www.linkedin.com/in/gopal-sejgaya-07b514285)
 📧 [Email Me](gopalsejgaya@gmail.com)
 
